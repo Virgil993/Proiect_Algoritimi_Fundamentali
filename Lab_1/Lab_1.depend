@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1638557339 source:d:\materiale_pentru_faculate\algoritmi fundamentali\lab_1\main.cpp
-	<iostream>
-	<string.h>
-	<bits/stdc++.h>
-
